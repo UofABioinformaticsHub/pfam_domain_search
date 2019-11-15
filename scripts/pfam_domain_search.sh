@@ -3,6 +3,8 @@
 #SBATCH --cpus-per-task 8
 #SBATCH --time 00:10:00
 
+# Adapted by Nathan Watson-Haigh from code originally written by Radoslaw Suchecki
+
 module load \
   HMMER
 
